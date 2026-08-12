@@ -18,21 +18,8 @@ I'm currently building my skills through hands-on projects and practical data an
 ### [🏆 Check Out My Full Portfolio Website](https://Omobolanle-Adedoyin.github.io/)
       
 ## 🔭 Featured Projetcs 
-- **Project A:** ### 🛒 Superstore Sales Analysis-An analysis of Superstore sales data to understand sales performance, customer behavior, product performance, and regional trends.
-*Tools used:*
-- Excel
-- SQL Server
-- PivotTables
-- Data Visualization
-*Project work includes:*
-- Data cleaning and preparation
-- SQL data analysis
-- Sales performance analysis
-- Customer analysis
-- Product and category analysis
-- Regional analysis
-- Interactive Excel dashboard
-[👉 [View Superstore Sales Analysis]([../superstore-sales-analysis](https://github.com/Omobolanle-Adedoyin/Superstore-Sales-Analysis))]  
+- **Project A:** ### 🛒 Superstore Sales Analysis
+[👉 [../superstore-sales-analysis](https://github.com/Omobolanle-Adedoyin/Superstore-Sales-Analysis))]([../superstore-sales-analysis](https://github.com/Omobolanle-Adedoyin/Superstore-Sales-Analysis))]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
