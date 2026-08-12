@@ -17,19 +17,14 @@ I'm currently building my skills through hands-on projects and practical data an
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Omobolanle-Adedoyin.github.io/)
       
-## 🔭 What I'm Currently Working On 
-
+## 🔭 Featured Projetcs 
 - **Project A:** ### 🛒 Superstore Sales Analysis-An analysis of Superstore sales data to understand sales performance, customer behavior, product performance, and regional trends.
-
 *Tools used:*
-
 - Excel
 - SQL Server
 - PivotTables
 - Data Visualization
-
 *Project work includes:*
-
 - Data cleaning and preparation
 - SQL data analysis
 - Sales performance analysis
