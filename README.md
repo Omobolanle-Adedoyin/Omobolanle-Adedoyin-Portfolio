@@ -72,12 +72,6 @@ I'm building practical data analytics projects that demonstrate my ability to:
 
 ---
 
-## 📈 My Goal
-
-To continue growing as a Data Analyst who can use data to solve real-world business problems and support better decision-making.
-
----
-
 ## 🤝 Let's Connect
 
 📍 Nigeria
@@ -90,5 +84,4 @@ To continue growing as a Data Analyst who can use data to solve real-world busin
 
 ⭐ Thanks for visiting my profile!
 
-I'm always learning, building, and improving one project at a time.
 
