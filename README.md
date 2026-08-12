@@ -46,7 +46,6 @@ I'm currently building my skills through hands-on projects and practical data an
 
 #### Currently Developing
 - Advanced SQL
-- Power BI
 - DAX
 - Power Query
 - Python for Data Analysis
