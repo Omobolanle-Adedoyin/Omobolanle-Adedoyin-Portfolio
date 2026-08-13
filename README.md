@@ -15,7 +15,7 @@ I'm currently building my skills through hands-on projects and practical data an
 ---
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Omobolanle-Adedoyin.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/Omobolanle-Adedoyin/Omobolanle-Adedoyin-Portfolio)
       
 ## 🔭 Featured Projetcs 
 - **Project A:** ### 🛒 Superstore Sales Analysis
