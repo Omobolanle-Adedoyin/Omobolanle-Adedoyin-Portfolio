@@ -65,7 +65,7 @@ I'm building practical data analytics projects that demonstrate my ability to:
 
 📍 Nigeria
 
-💼 LinkedIn: Add your LinkedIn profile link here
+💼 LinkedIn: 
 
 📧 Email: [ Omobolayemi03@gmail.com ]
 
