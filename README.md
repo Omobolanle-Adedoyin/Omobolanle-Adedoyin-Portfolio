@@ -14,14 +14,14 @@ I'm a Data Analyst focused on turning raw data into meaningful insights that can
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/Omobolanle-Adedoyin))
       
 ## 🔭 Featured Projects 
-- # Project A:**   Superstore Sales Analysis
+- ### Project A:**   Superstore Sales Analysis
 - TOOLS USED: EXCEL, SQL
 [👉 [../superstore-sales-analysis](https://github.com/Omobolanle-Adedoyin/Superstore-Sales-Analysis))]([../superstore-sales-analysis](https://github.com/Omobolanle-Adedoyin/Superstore-Sales-Analysis))]  
-- # Project B:**  HR Analytics
+- ### Project B:**  HR Analytics
   - TOOLS USED: EXCEL, POWER BI
  [👉 [https://github.com/Omobolanle-Adedoyin/HR-Analytics]
 
-- # Project C:**   Marketing Campaign Performance
+- ### Project C:**   Marketing Campaign Performance
  - TOOLS USED: EXCEL, POWER BI, SQL
    [ 👉 (https://github.com/Omobolanle-Adedoyin/Marketing-Campaign-Performance)]
 
